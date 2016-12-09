@@ -5,18 +5,20 @@
 ## Number Systems
 
 * What did we do before numbers?
+* How did we first count?
+* Can animals count?
 
-## Measuring Systems
+## Simple Devices
 
-### Base Systems
-
-## Calendars
-
-## Early Computers
+### Tally Stick
 
 ### Abacus
 
-* The period 2700–2300 BC (7300-7700 HE) saw the first appearance of the Sumerian abacus, a table of successive columns which delimited the successive orders of magnitude of their sexagesimal number system.
+* The period 2700–2300 BC (7300-7700 HE) saw the first appearance of the Sumerian abacus.
+* It was a table of successive columns which delimited the successive orders of magnitude.
+* They used a sexagesimal number system.
+
+## Mechanical Devices
 
 ### Antikythera mechanism
 
