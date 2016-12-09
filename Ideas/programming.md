@@ -1,4 +1,4 @@
-# Episode 0.0.3: Programming
+# Episode 0.0.x: Programming
 
 [toc]
 
@@ -19,7 +19,7 @@
 #### Abacus
 
 * The period 2700–2300 BC (7300-7700 HE) saw the first appearance of the Sumerian abacus, a table of successive columns which delimited the successive orders of magnitude of their sexagesimal number system.
-* 
+*
 
 #### Antikythera mechanism
 
