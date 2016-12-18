@@ -151,7 +151,7 @@
 * Teach Others
 * Donate Skills
 
-# Summary
+# Summary (10 minutes or less)
 
 ## Amateur
 
