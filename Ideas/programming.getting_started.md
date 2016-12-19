@@ -50,6 +50,10 @@
     * Javascript: https://www.codecademy.com/learn/javascript
   * Books:
     * Coding with Javascript For Dummies: https://www.codecademy.com/en/tracks/coding-with-javascript-for-dummies
+  * YouTube:
+    * Watch out for out-of-date videos
+  * Paid Video Sites:
+    * Lynda.com
 * Choosing a First Project
   * Hello World is an exersize, not a project.
   * Quote Manager
@@ -140,9 +144,13 @@
     * Always have a project available that is a good representation of your current "best work".
     * Update or create a new project if the old one seems stale.
 * Knowing when you're ready to apply for a programming job
+  * You have several completed projects under your belt that are ready to show off.
   * Your friends/family come to you asking for your work. This is a good indicator that you have a marketable set of skills.
-  *
+  * You look at professional work and think, "I could do that." or "I could do that better."
+  * You've wondered if you're ready to apply for a programming job for a long time. (years)
 * Taking a chance, even when you're unsure
+  * The worst that can happen is nobody contacts you back, which isn't really a bad thing anyways.
+  * There's a huge list of companies out there. Every company that doesn't call you back takes another name off that list and gets you closer to knowing your real best opportunities.
 
 ## So, Now You're a Professional
 
